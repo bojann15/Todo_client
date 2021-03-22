@@ -4,6 +4,7 @@ Built with React, React Hooks.
 Do not  used Class Components, React Redux.
 Used axios to make HTTP requests.
 Used useState and useEffect Hooks.
+Deployed at Netlify.
 
 
 ## Technologies
